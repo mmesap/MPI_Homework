@@ -1,0 +1,9 @@
+# de procesos: 	1	Tiempo: 	4.9051e+02	SpeedUp: 	1.0000e+00	Eficiencia: 	1.0000e+00	Pi: 	3.1415e+00
+# de procesos: 	2	Tiempo: 	1.8781e+02	SpeedUp: 	1.9980e+00	Eficiencia: 	9.9902e-01	Pi: 	3.1415e+00
+# de procesos: 	3	Tiempo: 	1.2639e+02	SpeedUp: 	3.9166e+00	Eficiencia: 	1.3055e+00	Pi: 	3.1415e+00
+# de procesos: 	4	Tiempo: 	1.6626e+02	SpeedUp: 	2.9773e+00	Eficiencia: 	7.4432e-01	Pi: 	3.1415e+00
+# de procesos: 	4	Tiempo: 	1.6595e+02	SpeedUp: 	2.9828e+00	Eficiencia: 	7.4571e-01	Pi: 	3.1415e+00
+# de procesos: 	5	Tiempo: 	1.1112e+02	SpeedUp: 	4.4548e+00	Eficiencia: 	8.9096e-01	Pi: 	3.1416e+00
+# de procesos: 	6	Tiempo: 	1.1684e+02	SpeedUp: 	4.2365e+00	Eficiencia: 	7.0608e-01	Pi: 	3.1417e+00
+# de procesos: 	7	Tiempo: 	1.1497e+02	SpeedUp: 	4.3056e+00	Eficiencia: 	6.1509e-01	Pi: 	3.1416e+00
+# de procesos: 	8	Tiempo: 	1.2287e+02	SpeedUp: 	4.0285e+00	Eficiencia: 	5.0357e-01	Pi: 	3.1416e+00
