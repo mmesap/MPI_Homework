@@ -1,3 +1,11 @@
+//Compile with: 
+/////mpic++ pi.cpp
+//Run with:
+/////for np in 1 2 3 4 5 6 7 8; do nohup mpirun --oversubscribe -np $np ./a.out 2000000000 >> pi.txt ; done 
+
+
+
+
 #include <iostream>
 #include <random>
 #include <cstdlib>
